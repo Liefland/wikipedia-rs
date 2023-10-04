@@ -1,5 +1,7 @@
 # wikipedia-rs
 
+## This is an updated - nonmaintained - fork of `seppo0010/wikipedia-rs`, see MR https://github.com/seppo0010/wikipedia-rs/pull/9
+
 [![Build Status](https://travis-ci.org/seppo0010/wikipedia-rs.svg?branch=master)](https://travis-ci.org/seppo0010/wikipedia-rs)
 [![crates.io](http://meritbadge.herokuapp.com/wikipedia)](https://crates.io/crates/wikipedia)
 
