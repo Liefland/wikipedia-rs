@@ -1,5 +1,5 @@
 [package]
-name = "wikipedia"
+name = "wikipedia_liefland"
 version = "0.4.0"
 authors = ["Sebastian Waisbrot <seppo0010@gmail.com>"]
 license-file = "LICENSE"
@@ -8,7 +8,7 @@ readme = "README.md"
 edition = "2021"
 documentation = "https://seppo0010.github.io/wikipedia-rs/"
 
-repository = "https://github.com/seppo0010/wikipedia-rs/"
+repository = "https://github.com/Liefland/wikipedia-rs"
 keywords = ["wikipedia", "api"]
 
 [features]
